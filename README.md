@@ -40,4 +40,4 @@ The Weather App is a powerful and user-friendly tool that leverages the OpenWeat
 
 # Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome contributions to enhance the app's features, performance, or user experience.
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Any contributions are welcome to enhance the app's features, performance, or user experience.
