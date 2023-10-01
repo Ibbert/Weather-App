@@ -26,7 +26,7 @@ The Weather App is a powerful and user-friendly tool that leverages the OpenWeat
 
 5. Run the app and input the location for which you want to check the weather.
 
-6. Enjoy up-to-date weather information for any location worldwide!
+6. Up-to-date weather information for any location worldwide!
 
 # Technologies Used
 
