@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #AA336A;
+  background: #902959;
 }
 
 .container {
@@ -157,7 +157,7 @@ body {
 }
 
 .not-found img {
-  width: 70%;
+  width: 50%;
 }
 
 .not-found p {
