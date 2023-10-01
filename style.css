@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #902959;
+  background: #2c1b77;
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
   background: #fff;
   padding: 28px 32px;
   overflow: hidden;
-  border-radius: 18px;
+  border-radius: 55px;
   font-family: "Roboto", sans-serif;
   transition: 0.6s ease-out;
 }
