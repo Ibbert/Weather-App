@@ -1,5 +1,7 @@
 ##  🌤️ Weather-App 🌧️
 
+![Uten navn](https://github.com/Ibbert/Weather-App/assets/105546679/84d96315-43b1-4fc6-8b6e-75b2c3b8ce4b)
+
 # Overview
 
 The Weather App is a powerful and user-friendly tool that leverages the OpenWeather API to provide real-time weather information for locations across the globe. Whether you're planning a trip, checking the weather for your hometown, or simply curious about the conditions in a distant city, this app has you covered.
