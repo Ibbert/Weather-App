@@ -17,9 +17,9 @@ body {
 .container {
   position: relative;
   width: 400px;
-  height: 105px;
+  height: 110px;
   background: #fff;
-  padding: 28px 32px;
+  padding: 28px 42px;
   overflow: hidden;
   border-radius: 55px;
   font-family: "Roboto", sans-serif;
@@ -96,6 +96,13 @@ body {
   font-size: 1.5rem;
 }
 
+.weather-box .city {
+  color: #06283d;
+  font-size: 18px;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
 .weather-box .description {
   color: #06283d;
   font-size: 22px;
@@ -116,6 +123,7 @@ body {
   align-items: center;
   width: 50%;
   height: 100px;
+  padding-bottom: 50px;
 }
 
 .weather-details .humidity {
